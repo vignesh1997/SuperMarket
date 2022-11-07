@@ -12,6 +12,8 @@ public class Gmail {
 		c.get("https://accounts.google.com/");
 		c.findElement(By.className("whsOnd")).sendKeys("vignesh@hcl.com");
 		c.findElement(By.className("zQJV3")).click();
+		
+		// program updated with this line.....
 	}
 
 }
