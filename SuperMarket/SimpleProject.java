@@ -23,3 +23,5 @@ public class SimpleProject {
 		driver.findElement(By.linkText("Forgot Password")).click();
 	}
 }
+
+//Updated with this line.....
